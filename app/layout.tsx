@@ -1,5 +1,3 @@
-import './globals.css'
-
 export const metadata = {
   title: 'Web Analyzer SEO',
   description: 'Plataforma SaaS de análisis SEO con IA',
